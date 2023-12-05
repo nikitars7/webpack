@@ -1,0 +1,7 @@
+1. Run npm init -y
+2. create src folder and index.js file
+
+// запуск через env 
+npm run start -- --env port=5000
+
+npm run build:prod -- --env analyzer=true 
